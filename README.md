@@ -34,14 +34,12 @@ Trained various ML models on the above final dataset for the classification of f
 Evaluation metrics used are accuracy, f1 score, confusion matrix.  
 Random Forest model performed best among others like Gradient Boost, SVM.  
 
-you can download the [trained Random Forest model](https://github.com/DasariJayanth/Malware-Detection-in-PE-files-using-Machine-Learning/blob/ce340fed1072ce4517e22c50d03e28b414bc3e87/models/RF_model.pkl) here.
-
 ## Setup  
   
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/DasariJayanth/Malware-Detection-in-PE-files-using-Machine-Learning.git  
+git clone https://github.com/Sarthak-Biswas/CS547_Term_Project.git
 ```
 
 Once you cloned the repository create a virtual environment using
